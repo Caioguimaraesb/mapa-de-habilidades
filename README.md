@@ -15,13 +15,13 @@ Nesta fase, respondi a perguntas fundamentais para identificar talentos naturais
 > "Costumam elogiar meus **materiais gráficos e documentos elaborados**. Já recebi feedbacks positivos sobre uma cartilha que fiz para uma atividade de trabalho. Além disso, no ambiente profissional, destacam minha **capacidade de transmitir conhecimento**; dizem que tenho uma boa forma de ensinar."
 
 ### 🎯 Em que tipo de tarefa você se sente confiante?
-> Sinto total confiança em tarefas que envolvam **layout, organização de informações** e estruturação visual de conteúdos.
+> Sinto confiança em tarefas que envolvam **layout, organização de informações** e estruturação visual de conteúdos.
 
 ### 🤝 Que tipo de ajuda você costuma oferecer para amigos ou familiares?
 > Ajudo pessoas com dificuldades no uso de **tecnologia do dia a dia** (como pagar contas ou gerar boletos em aplicativos). Também presto suporte na elaboração e organização de **materiais gráficos, documentos, layouts e planilhas**.
 
 ### ⚡ Quais atividades você faz com facilidade, enquanto outras pessoas têm dificuldade?
-> Tenho muita familiaridade com **edição de fotos, materiais gráficos e criação de cartões de visita**. Frequentemente ajudo colegas a ajustarem detalhes finos em **slides ou gráficos**.
+> Tenho familiaridade com **edição de fotos, materiais gráficos e criação de cartões de visita**. Frequentemente ajudo colegas a ajustarem detalhes finos em **slides ou gráficos**.
 
 ### 📚 Que tipo de conteúdo você consome com frequência?
 > Atualmente, meu foco total está na área de **Tecnologia**, especificamente consumindo conteúdos sobre **Inteligência Artificial e Desenvolvimento Front-End**.
