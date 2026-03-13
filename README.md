@@ -95,13 +95,6 @@ Monetizar a facilidade em transmitir conhecimento.
 
 ---
 
-## 🎨 Galeria de Projetos (Design & Layout)
 
-Abaixo, alguns exemplos de materiais gráficos que desenvolvi, onde aplico conceitos de hierarquia visual e organização de informações que hoje utilizo no desenvolvimento de interfaces.
 
-<p align="center">
-  
-  <img src="nome-do-seu-cartao-1.jpg" width="400" alt="Cartão de Visita 1">
-  <img src="nome-do-seu-cartao-2.jpg" width="400" alt="Cartão de Visita 2">
-</p>
 
